@@ -1,0 +1,19 @@
+/* Currently empty since we use Bootstrap */
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.container {
+    margin-bottom: 10rem;
+}
+
+.sticky-footer {
+position: absolute;
+bottom: 0;
+width: 100%;
+min-height: 4rem;
+text-align: center;
+}
